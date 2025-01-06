@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Component NavCollapse NavCollapse component snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters Mui-selected MuiListItemButton-root MuiListItemButton-gutters Mui-selected css-6r21tv-MuiButtonBase-root-MuiListItemButton-root"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemIcon-root css-1e09ong-MuiListItemIcon-root"
+    >
+      <icon
+        stroke-width="1.5"
+        style="margin-top: auto; margin-bottom: auto;"
+      />
+    </div>
+    <div
+      class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5 css-1jh4dp9-MuiTypography-root"
+      />
+      <span
+        class="MuiTypography-root MuiTypography-caption MuiTypography-gutterBottom css-621s9d-MuiTypography-root"
+      >
+        caption
+      </span>
+    </div>
+    <svg
+      class="icon icon-tabler icon-tabler-chevron-up"
+      fill="none"
+      height="1rem"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="1.5"
+      style="margin-top: auto; margin-bottom: auto;"
+      viewBox="0 0 24 24"
+      width="1rem"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0z"
+        fill="none"
+        stroke="none"
+      />
+      <polyline
+        points="6 15 12 9 18 15"
+      />
+    </svg>
+    <span
+      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+    />
+  </div>
+  <div
+    class="MuiCollapse-root MuiCollapse-vertical css-1fkrdiv-MuiCollapse-root"
+    style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+  >
+    <div
+      class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+    >
+      <div
+        class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+      >
+        <div
+          class="MuiList-root css-17s7fyi-MuiList-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter css-b71oe7-MuiTypography-root"
+          >
+            Menu Items Error
+          </h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
