@@ -6,14 +6,7 @@ module.exports = {
     commonjs: true,
     jest: true,
   },
-  extends: [
-    'prettier',
-    'plugin:prettier/recommended',
-    'eslint:recommended',
-    'plugin:react/recommended',
-    'plugin:react/jsx-runtime',
-    'plugin:react-hooks/recommended',
-  ],
+  extends: ['prettier', 'plugin:prettier/recommended', 'eslint:recommended', 'plugin:react/recommended', 'plugin:react/jsx-runtime', 'plugin:react-hooks/recommended', 'plugin:storybook/recommended'],
   overrides: [
     {
       env: {
